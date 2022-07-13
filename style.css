@@ -1,0 +1,19 @@
+div {
+    color: rgb(174, 33, 33)
+}
+
+#div1 {
+    color:aqua
+}
+
+#div2 {
+    color:blue
+}
+.large-font {
+    font-size: 2rem;
+}
+
+.deep-background {
+    background-color:black;
+    font-size: 4rem;
+}
